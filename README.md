@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 
 <h1>i'm Shubham.⚡ </h1>
 <h2>&#x1F4BB; A Computer Science & Engineering undergrad from Bangalore, India.<br>
 &#x1F499; Loves to create things that truly lays an impact on someone's life.<br>
