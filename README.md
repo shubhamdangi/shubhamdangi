@@ -5,7 +5,7 @@
 &#x1F308; Passionate web Developer with an entrepreneurial & creative mindset.<br>
 &#x1F4D6; Likes to read about life, rise and fall of the empires, technology & cybersecurity.</h2>
 <div align="center">
-  <img src="banner-readme.jpg" style="width:580px;height:390px">
+  <img src="banner-readme.jpg" style="width:600px;height:370px">
   </div>
 
 <!--
