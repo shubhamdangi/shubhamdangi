@@ -1,5 +1,5 @@
 ### Hey there! 
-<h1>i'm Shubham.⚡ </h1>
+<h1>I'm Shubham.⚡ </h1>
 <h2>&#x1F4BB; A Computer Science & Engineering undergrad from Bangalore, India.<br>
 &#x1F499; Love to create things that truly lays an impact on someone's life.<br>
 ⚛️ Passionate web Developer with an entrepreneurial & creative mindset.<br>
