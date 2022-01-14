@@ -3,7 +3,7 @@
 <h2>&#x1F4BB; A Computer Science & Engineering undergrad from Bangalore, India.<br>
 &#x1F499; Love to create things that truly lays an impact on someone's life.<br>
 ⚛️ Passionate web Developer with an entrepreneurial & creative mindset.<br>
-&#x1F4D6; Like to read about life, rise and fall of the empires, technology & infosec.</h2>
+&#x1F4D6; Like to read about life, rise and fall of the empires, technology & information security.</h2>
 <div align="center">
   <img src="banner-readme.jpg" style="width:570px;height:370px">
   </div>
