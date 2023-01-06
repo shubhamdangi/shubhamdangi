@@ -1,9 +1,9 @@
 ### Hey there! 
 <h1>I'm Shubham.⚡ </h1>
-<h2>&#x1F4BB; A Software Development Engineer from Gurugram, India.<br>
-&#x1F499; Love to create things that truly lays an impact on someone's life.<br>
-⚛️ Passionate web Developer with an entrepreneurial & creative mindset.<br>
-&#x1F4D6; Like to read about life, rise and fall of the empires, technology & InfoSec.</h2>
+<h2>&#x1F4BB; &nbsp;A Software Development Engineer from Gurugram, India.<br>
+&#x1F499; &nbsp;Love to create things that truly lays an impact on someone's life.<br>
+⚛️ &nbsp;Passionate web Developer with an entrepreneurial & creative mindset.<br>
+&#x1F4D6; &nbsp;Like to read about life, rise and fall of the empires, technology & InfoSec.</h2>
 <div align="center">
   <img src="banner-readme.jpg" style="width:570px;height:370px">
   </div>
