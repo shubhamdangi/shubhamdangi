@@ -1,5 +1,5 @@
 ### Hey there! 
-<h1>I'm Shubham.⚡ </h1>
+<h1>I'm Shubham ⚡ </h1>
 <h2>&#x1F4BB; &nbsp;A Software Development Engineer from Gurugram, India.<br>
 &#x1F499; &nbsp;Love to create things that truly lays an impact on someone's life.<br>
 ⚛️ &nbsp;Passionate web Developer with an entrepreneurial & creative mindset.<br>
