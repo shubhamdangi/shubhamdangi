@@ -4,7 +4,7 @@
 &#x1F499; &nbsp;Love to create things that truly lays an impact on someone's life.<br>
 ⚛️ &nbsp;Passionate web Developer with an entrepreneurial & creative mindset.<br>
 &#x1F4D6; &nbsp;Like to read about life, rise and fall of the empires, technology & InfoSec.</h2>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=shubhamdangi)
 <br>
 <div align="center">
   <img src="banner-readme.jpg" style="width:570px;height:370px">
