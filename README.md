@@ -10,11 +10,11 @@
 </a>
 
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="banner-readme.jpg" style="width:570px;height:370px">
-  </div>
+  </div> -->
   
-  <br/>
+<!--   <br/> -->
   
 ## Tech 🚀
 
